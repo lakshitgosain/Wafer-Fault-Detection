@@ -1,0 +1,216 @@
+2020-09-09/01:52:32	Validation of column length started
+2020-09-09/01:52:32	Error while moving the file to different Directory
+2020-09-09/01:55:49	Validation of column length started
+2020-09-09/01:55:49	Error while moving the file to different Directory
+2020-09-09/01:57:39	Validation of column length started
+2020-09-09/01:57:39	Error while moving the file to different Directory[Errno 2] No such file or directory: 'wafer_07012020_041011.csv'
+2020-09-09/02:01:41	Validation of column length started
+2020-09-09/02:01:41	Error while moving the file to different Directory[Errno 2] No such file or directory: 'wafer_07012020_041011.csv'
+2020-09-09/02:02:33	Validation of column length started
+2020-09-09/02:02:33	Error while moving the file to different Directory[Errno 2] No such file or directory: 'wafer_07012020_041011.csv'
+2020-09-09/02:03:21	Validation of column length started
+2020-09-09/02:03:21	Error while moving the file to different Directory[Errno 2] No such file or directory: 'wafer_07012020_041011.csv'
+2020-09-09/02:08:06	Validation of column length started
+2020-09-09/02:08:06	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:06	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:07	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:08	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:08:08	File did not have the required number of columns, Movied file to Bad Data Folder
+2020-09-09/02:09:39	Validation of column length started
+2020-09-09/02:09:39	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:40	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:41	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:41	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:41	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:41	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:41	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:42	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:09:42	File did not have the required number of columns591, Movied file to Bad Data Folder
+2020-09-09/02:10:15	Validation of column length started
+2020-09-09/02:10:15	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:16	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:17	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:17	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:10:17	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:54	Validation of column length started
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:20:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:50	Validation of column length started
+2020-09-09/02:21:50	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:50	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:50	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:50	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:50	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:51	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:21:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:25	Validation of column length started
+2020-09-09/02:22:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:26	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:22:27	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:53	Validation of column length started
+2020-09-09/02:25:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:54	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:25:55	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:24	Validation of column length started
+2020-09-09/02:26:24	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:24	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:24	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:24	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:26:25	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	Validation of column length started
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:36	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:39:37	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	Validation of column length started
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:11	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:12	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:52	Validation of column length started
+2020-09-09/02:43:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:52	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:43:53	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	Validation of column length started
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:56	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
+2020-09-09/02:52:57	File did not have the required number of columns591	592, Movied file to Bad Data Folder
